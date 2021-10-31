@@ -5,6 +5,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
 
 import os
+
 class Voter:
   def __init__(self):
     # self.roje_absolute_xpath = "//*[@id="root"]/div/section/div/div[4]/div/section[14]/div/div/div/div/div/div[2]/div/div/div/div[2]/div[5]/button"
