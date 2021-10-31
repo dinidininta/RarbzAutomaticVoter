@@ -27,7 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '127.0.0.1',
-    'rojevoter-pi-master-w2jlb2rcgw.herokuapp.com'
+    'rojevoter-pi-deploy-fts1giokxu.herokuapp.com'
 ]
 
 
