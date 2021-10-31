@@ -26,7 +26,7 @@ SECRET_KEY = '7+(dle*f8xbe43&%ze7n#9!)ut-#u*a(w7$$18#%h4%qwaa=)!'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'rojevoter-pi-master-w2jlb2rcgw.herokuapp.com'
+    'rojevoter-pi-deploy-fts1giokxu.herokuapp.com'
 ]
 
 
